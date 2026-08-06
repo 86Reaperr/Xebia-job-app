@@ -107,7 +107,7 @@ PyMuPDF
 - Support DOCX resumes
 - Resume score analysis
 - Skill proficiency detection
-- Multi-platform job links (LinkedIn, Indeed, Naukri)
+- Multi-platform job links ( Indeed, Naukri)
 
 ---
 
